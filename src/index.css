@@ -1,0 +1,19 @@
+body {
+  display: block;
+  margin: 0;
+  font-family: "Source Sans Pro", Helvetica, sans-serif;
+    font-weight: 300;
+    font-size: 16px;
+    font-size: 1rem;
+    line-height: 1.65;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  color: #3f3f3f;
+  background-color: #3f3f3f !important;
+ 
+}
+
+code {
+  font-family: 'source-code-pro', 'Menlo, Monaco, Consolas', 'Courier New',
+    monospace;
+}
